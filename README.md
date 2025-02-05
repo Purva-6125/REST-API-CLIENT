@@ -82,3 +82,6 @@ Error fetching data. Check city name or API key.
 The try-catch block ensures that any exceptions (such as network errors or invalid JSON parsing) are caught and printed to the console.
 
 This Java program effectively demonstrates how to handle HTTP requests and parse JSON responses in a simple yet practical way. By integrating OpenWeatherMap's API, it provides real-time weather information to users in a structured format. The use of networking, I/O, JSON parsing, and user input handling makes it a great example of working with external APIs in Java. With further enhancements, it can be turned into a fully functional weather application with better user interaction and more advanced features.
+
+**OUTPUT OF THE TASK** : 
+![Image](https://github.com/user-attachments/assets/f049bf0c-6d0d-4a19-983c-b8954633f6f7)
